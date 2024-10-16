@@ -83,8 +83,8 @@ const Footer = () => {
           </div>
           <div>
             <h3 className="font-semibold mb-4">Contact Us</h3>
-            <p className="text-foreground/60">Email: info@truelens.com</p>
-            <p className="text-foreground/60">Phone: (123) 456-7890</p>
+            <p className="text-foreground/60">Email: truelens@gmail.com</p>
+            <p className="text-foreground/60">Phone: (+234) 8083-6475-31</p>
           </div>
           <div>
             <h3 className="font-semibold mb-4">Stay Connected</h3>
